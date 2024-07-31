@@ -2,7 +2,7 @@
 
 ## Overview
 
-The DNA Sequence Assembly project focuses on reconstructing a DNA sequence from smaller fragments using various algorithms. This project addresses the computational problem of sequence assembly in bioinformatics, where the goal is to piece together DNA sequences from fragmented data.
+The DNA Sequence project focuses on reconstructing a DNA sequence from smaller fragments using various algorithms. This project addresses the computational problem of sequence assembly in bioinformatics, where the goal is to piece together DNA sequences from fragmented data.
 
 ## Project Features
 
