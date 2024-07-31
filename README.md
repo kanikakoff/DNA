@@ -14,7 +14,6 @@ The DNA Sequence Assembly project focuses on reconstructing a DNA sequence from 
 
 - **`src/`**: Contains the source code for the DNA sequence assembly algorithms.
 - **`tests/`**: Contains test cases to validate the functionality of the project.
-- **`docs/`**: Documentation and instructions related to the project.
 - **`README.md`**: This file.
 
 ## Working
