@@ -1,4 +1,4 @@
-# DNA Sequence Assembly Project
+# DNA Sequence 
 
 ## Overview
 
